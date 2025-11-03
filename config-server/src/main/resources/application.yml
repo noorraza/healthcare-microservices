@@ -9,6 +9,6 @@ spring:
     config:
       server:
         git:
-          uri: file:///C:/Users/noorr/OneDrive/Documents/healthcare-system/healthcare-config-repo
+          uri: https://github.com/noorraza/healthcare-config-repo
           # adjust to your local path to healthcare-config-repo
           default-label: master
