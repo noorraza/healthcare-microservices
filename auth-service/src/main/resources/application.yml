@@ -4,5 +4,5 @@ spring:
   cloud:
     config:
       uri: http://localhost:8888
-      default-label: main
+      label: main
       fail-fast: false
