@@ -1,0 +1,28 @@
+# Java / Maven
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Spring Boot / IDE
+.mvn/
+.settings/
+*.swp
+
+# Node / React
+ui/node_modules/
+ui/build/
+ui/.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.env
+docker-compose.override.yml

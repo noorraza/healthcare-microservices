@@ -11,4 +11,5 @@ spring:
         git:
           uri: https://github.com/noorraza/healthcare-config-repo
           # adjust to your local path to healthcare-config-repo
-          default-label: master
+          default-label: main
+
